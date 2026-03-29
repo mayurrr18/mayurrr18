@@ -146,20 +146,8 @@
 
 ---
 
-### 💫 Weekly Development Breakdown
-
-<div align="center">
-  
-```text
-Python       ████████████████░░░░   42.5%
-JavaScript   ████████████░░░░░░░░   32.8%
-Java         ██████░░░░░░░░░░░░░░   15.2%
-HTML/CSS     ████░░░░░░░░░░░░░░░░   9.5%
-</div>
 
 
-
-🤝 Let's Connect
 <div align="center"> <table> <tr> <td align="center"> <a href="mailto:mayureshchoudhari8@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <br/>mayureshchoudhari8@gmail.com </a> </td> <td align="center"> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br/>Connect with me </a> </td> <td align="center"> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> <br/>View my work </a> </td> </tr> </table> </div>
 🎨 Fun Corner
 <div align="center">
