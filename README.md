@@ -1,140 +1,27 @@
-<div align="center">
-
-```
-▄▀█ █▀▀ █▀ ▀█▀ █░█ █▀▀ ▀█▀ █ █▀▀   █▀▄ █▀█ █▀▀ ▄▀█ █▀▄▀█ █▀
-█▀█ ██▄ ▄█ ░█░ █▀█ ██▄ ░█░ █ █▄▄   █▄▀ █▀▄ ██▄ █▀█ █░▀░█ ▄█
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=4"/>
-
-</div>
-
-<div align="center">
-
-# ◉ Mayuresh Choudhari ◉
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=Code+.+Create+.+Innovate++.++;Available+for+Amazing+Opportunities" alt="Typing SVG" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=2"/>
-
-```
-◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-```
-
-</div>
-
-## ◉ CURRENT.STATUS ◉
-
-```ascii
-┌─────────────────────────────────────────────────┐
-│  > Computer Engineering student with a solid background in programming ( Java, Python), web development, operating systems, and database management. Strong analytical, problem-solving, and communication skills                                      │
-│  > Location: Navi Mumabi                       │
-│  > Motto: "learn Fast,Build fast"                           │
-│  > Philosophy: Be useful, be honest, and keep improving           │
-└─────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/STATUS-Open to new opportunities-FF00FF?style=flat-square&labelColor=000000&color=FF00FF)
-![Vibes](https://img.shields.io/badge/VIBES-Synthwave-00FFFF?style=flat-square&labelColor=000000&color=00FFFF)
-![Mode](https://img.shields.io/badge/MODE-Aesthetic-FF1493?style=flat-square&labelColor=000000&color=FF1493)
-
-</div>
-
-## ◉ DIGITAL.ARSENAL ◉
-
-<div align="center">
-
-```
-██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗███╗   ███╗██╗███╗   ██╗ ██████╗ 
-██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║████╗ ████║██║████╗  ██║██╔════╝ 
-██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║██╔████╔██║██║██╔██╗ ██║██║  ███╗
-██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║██║╚██╔╝██║██║██║╚██╗██║██║   ██║
-██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║██║ ╚████║╚██████╔╝
-╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-```
-
-</div>
-
-### ▸ PRIMARY LANGUAGE
-```
-> PYTHON , JAVA
-```
-
-### ▸ FRONTEND STACK
-```
-> HTML , CSS
-```
-
-### ▸ BACKEND SYSTEMS  
-```
-> JAVASCRIPT ,JAVA
-```
-
-### ▸ DATABASE LAYER
-```
-> MySql
-```
-
-<div align="center">
-
-**◢◤ SKILL MATRIX ◢◤**
-
-PYTHON ,JAVA,HTML,CSS,JAVASCRIPT
-
-</div>
+# 💫 About Me:
+Enthusiastic and detail-oriented Computer Engineering student with strong foundations in programming, data structures, algorithms, and computer networks. Skilled in problem-solving and eager to apply academic knowledge to real-world projects.
 
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayureshchoudhari8@gmail.com) 
 
-## ◉ STATISTICS.LOG ◉
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mayurrr18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mayurrr18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrr18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mayurrr18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayurrr18&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff&icon_color=ff1493" alt="GitHub Stats" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mayurrr18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrr18&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff1493&currStreakLabel=00ffff" alt="GitHub Streak" />
+---
+[![](https://visitcount.itsvg.in/api?id=mayurrr18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrr18&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff" alt="Top Languages" />
-
-</div>
-
-
-## ◉ NETWORK.CONNECT ◉
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                         C O N N E C T I O N S                        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-[![Website](https://img.shields.io/badge/WEBSITE-[Your website]-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)]
-([Your website])
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)]([Your linkedin])
-[![Twitter](https://img.shields.io/badge/TWITTER-Follow-FF1493?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)]([Your twitter])
-[![Email](https://img.shields.io/badge/EMAIL-Contact-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mayureshchoudhari8@gmail.com)
-
-</div>
-
-<div align="center">
-
-```
-◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-```
-
-**◉ VISITOR.COUNTER ◉**
-
-![Visitor Count](https://profile-counter.glitch.me/mayurrr18/count.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=4"/>
-
-```
-▀█▀ █░█ ▄▀█ █▄░█ █▄▀ █▀   █▀▀ █▀█ █▀█   █░█ █ █▀ █ ▀█▀ █ █▄░█ █▀▀ ▄▄ ▄▄ ▄▄
-░█░ █▀█ █▀█ █░▀█ █░█ ▄█   █▀░ █▄█ █▀▄   ▀▄▀ █ ▄█ █ ░█░ █ █░▀█ █▄█ ░░ ░░ ░░
-```
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
