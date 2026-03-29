@@ -85,47 +85,7 @@ python java HTML CSS JAVASCRIPT
 
 </div>
 
-## ◉ PROJECT.ARCHIVE ◉
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                           P R O J E C T S                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### ▸ [Your project1Name]
-```yaml
-Description: [Your project1Description]
-Repository: [Your project1Repo]
-Live Demo: [Your project1Link]
-Status: ████████████████████████████████ 100% COMPLETE
-```
-
-### ▸ [Your project2Name]  
-```yaml
-Description: [Your project2Description]
-Repository: [Your project2Repo]
-Live Demo: [Your project2Link]
-Status: ████████████████████████████████ 100% COMPLETE
-```
-
-### ▸ [Your project3Name]
-```yaml
-Description: [Your project3Description]
-Repository: [Your project3Repo]
-Live Demo: [Your project3Link]
-Status: ████████████████████████████████ 100% COMPLETE
-```
-
-<div align="center">
-
-![Project Stats](https://github-readme-stats.vercel.app/api/pin/?username=mayurrr18&repo=[Your project1Name]&theme=synthwave&hide_border=true)
-
-</div>
 
 ## ◉ STATISTICS.LOG ◉
 
@@ -156,21 +116,6 @@ Status: ████████████████████████
 ![Current Goal](https://img.shields.io/badge/CURRENT_GOAL-[Your currentGoal]-FF00FF?style=for-the-badge&labelColor=000000&color=FF00FF)
 ![Next Goal](https://img.shields.io/badge/NEXT_TARGET-[Your nextGoal]-00FFFF?style=for-the-badge&labelColor=000000&color=00FFFF)
 ![Learning](https://img.shields.io/badge/LEARNING-[Your currentLearning]-FF1493?style=for-the-badge&labelColor=000000&color=FF1493)
-
-</div>
-
-## ◉ OFFLINE.ACTIVITIES ◉
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────╮
-│                   WHEN NOT CODING                   │
-├─────────────────────────────────────────────────────┤
-│  ▸ [Your interest1]                                    │
-│  ▸ [Your interest2]                                    │
-╰─────────────────────────────────────────────────────╯
-```
 
 </div>
 
