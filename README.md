@@ -59,17 +59,17 @@
 
 ### ▸ PRIMARY LANGUAGE
 ```
-> python java
+> PYTHON , JAVA
 ```
 
 ### ▸ FRONTEND STACK
 ```
-> HTML ,Css
+> HTML , CSS
 ```
 
 ### ▸ BACKEND SYSTEMS  
 ```
-> javascript ,Java
+> JAVASCRIPT ,JAVA
 ```
 
 ### ▸ DATABASE LAYER
@@ -81,7 +81,7 @@
 
 **◢◤ SKILL MATRIX ◢◤**
 
-python java HTML CSS JAVASCRIPT
+PYTHON ,JAVA,HTML,CSS,JAVASCRIPT
 
 </div>
 
@@ -93,31 +93,14 @@ python java HTML CSS JAVASCRIPT
 
 <img src="https://github-readme-stats.vercel.app/api?username=mayurrr18&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff&icon_color=ff1493" alt="GitHub Stats" />
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrr18&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff1493&currStreakLabel=00ffff" alt="GitHub Streak" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrr18&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff" alt="Top Languages" />
 
 </div>
 
-## ◉ CURRENT.OBJECTIVES ◉
-
-<div align="center">
-
-```
-┌─ LOADING OBJECTIVES ─────────────────────────────────┐
-│                                                      │
-│  ▸ Current Focus: [Your currentGoal]                    │  
-│  ▸ Next Target: [Your nextGoal]                         │
-│  ▸ Learning Path: [Your currentLearning]                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-![Current Goal](https://img.shields.io/badge/CURRENT_GOAL-[Your currentGoal]-FF00FF?style=for-the-badge&labelColor=000000&color=FF00FF)
-![Next Goal](https://img.shields.io/badge/NEXT_TARGET-[Your nextGoal]-00FFFF?style=for-the-badge&labelColor=000000&color=00FFFF)
-![Learning](https://img.shields.io/badge/LEARNING-[Your currentLearning]-FF1493?style=for-the-badge&labelColor=000000&color=FF1493)
-
-</div>
 
 ## ◉ NETWORK.CONNECT ◉
 
@@ -129,7 +112,8 @@ python java HTML CSS JAVASCRIPT
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Website](https://img.shields.io/badge/WEBSITE-[Your website]-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)]([Your website])
+[![Website](https://img.shields.io/badge/WEBSITE-[Your website]-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)]
+([Your website])
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)]([Your linkedin])
 [![Twitter](https://img.shields.io/badge/TWITTER-Follow-FF1493?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)]([Your twitter])
 [![Email](https://img.shields.io/badge/EMAIL-Contact-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mayureshchoudhari8@gmail.com)
