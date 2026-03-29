@@ -38,7 +38,7 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
 
 ---
@@ -81,15 +81,15 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurrr18&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrr18&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurrr18&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=f85d7f&icon_color=f85d7f" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrr18&theme=radical&hide_border=true&background=0d1117&ring=f85d7f&fire=f85d7f&currStreakLabel=f85d7f" width="49%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrr18&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mayurrr18&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrr18&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=f85d7f" width="49%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mayurrr18&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=f85d7f" width="49%">
 </div>
 
 ---
@@ -97,7 +97,7 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurrr18&theme=radical&hide_border=true&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurrr18&theme=radical&hide_border=true&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&area_color=fe428e" width="95%">
 </div>
 
 <br>
@@ -111,8 +111,10 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurrr18&theme=radical&no-frame=false&margin-w=4&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurrr18&theme=radical&no-frame=false&margin-w=4&column=4&row=1">
 </div>
+
+> **Note:** Trophies may take a few seconds to load. If not visible, the service may be experiencing high traffic. Try refreshing or check back later.
 
 ---
 
@@ -122,22 +124,22 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"><br>
+        <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"><br>
         <b>Open Source</b><br>
         Contributing to communities
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50"><br>
+        <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50"><br>
         <b>Full Stack</b><br>
         Building web applications
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8f8Y/giphy.gif" width="50"><br>
+        <img src="https://media4.giphy.com/media/3o7abB06u9bNzA8f8Y/giphy.gif" width="50"><br>
         <b>Machine Learning</b><br>
         Exploring AI & Data Science
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"><br>
+        <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"><br>
         <b>Networking</b><br>
         Connecting with developers
       </td>
@@ -146,7 +148,6 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 </div>
 
 ---
-
 
 ### 🤝 Let's Connect
 
