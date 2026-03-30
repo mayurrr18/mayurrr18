@@ -78,19 +78,6 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurrr18&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=f85d7f&icon_color=f85d7f" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrr18&theme=radical&hide_border=true&background=0d1117&ring=f85d7f&fire=f85d7f&currStreakLabel=f85d7f" width="49%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrr18&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=f85d7f" width="49%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mayurrr18&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=f85d7f" width="49%">
-</div>
 
 ---
 
