@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀  About Me
 
 I'm a passionate and detail-oriented **Computer Engineering student** with a strong foundation in **programming**, **data structures & algorithms**, and **computer networks**. I thrive on solving complex problems and am eager to translate my academic knowledge into impactful real-world projects. Always learning, always building.
 
@@ -136,7 +136,7 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 
 ---
 
-### 🤝 Let's Connect
+### 🤝  Let's Connect
 
 <div align="center">
   <a href="mailto:mayureshchoudhari8@gmail.com">
@@ -214,6 +214,8 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 </div>
 
 <br>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
