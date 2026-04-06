@@ -240,12 +240,13 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
 
 <div align="center">
   <br>
-  <i>⭐️ If you like my profile, consider giving it a star! ⭐️</i>
+  <i>⭐️ If you like my profile, consider giving it a star!  ⭐️</i>
   <br><br>
   <i>💖 Made with passion by Mayuresh Choudhari | Let's code the future! 💖</i>
 </div>
 
 <br>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
