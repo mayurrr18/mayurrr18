@@ -130,7 +130,7 @@ I'm a passionate and detail-oriented **Computer Engineering student** with a str
   <img src="https://github-profile-trophy.vercel.app/?username=mayurrr18&theme=radical&no-frame=false&margin-w=4&column=4&row=1">
 </div>
 
-> **Note:** Trophies may take a few seconds to load. If not visible, the service may be experiencing high traffic. Try refreshing or check back later.
+> **Note:** Trophies may take a few take seconds to load. If not visible, the service may be experiencing high traffic. Try refreshing or check back later.
 
 ---
 
